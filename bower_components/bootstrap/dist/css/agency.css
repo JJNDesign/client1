@@ -329,7 +329,7 @@ section {
   position: relative;
   margin: 0 auto;
 }
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+.portfolio-item .portfolio-link .portfolio-hover {
   background: rgba(217, 77, 77, 0.9);
   position: absolute;
   width: 100%;
